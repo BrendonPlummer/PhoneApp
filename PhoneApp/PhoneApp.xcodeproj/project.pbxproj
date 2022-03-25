@@ -16,6 +16,7 @@
 		4DC1CB2827E4BE10000F867A /* PhoneAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC1CB2727E4BE10000F867A /* PhoneAppTests.swift */; };
 		4DC1CB3327E4BE10000F867A /* PhoneAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC1CB3227E4BE10000F867A /* PhoneAppUITests.swift */; };
 		4DC1CB4127E4BE2E000F867A /* PhoneEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DC1CB4027E4BE2E000F867A /* PhoneEntry.swift */; };
+		4DDD594227EDEFCC00BF18DF /* ContactTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DDD594127EDEFCC00BF18DF /* ContactTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		4DC1CB3227E4BE10000F867A /* PhoneAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneAppUITests.swift; sourceTree = "<group>"; };
 		4DC1CB3427E4BE10000F867A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DC1CB4027E4BE2E000F867A /* PhoneEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneEntry.swift; sourceTree = "<group>"; };
+		4DDD594127EDEFCC00BF18DF /* ContactTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				4DC1CB1227E4BE0E000F867A /* SceneDelegate.swift */,
 				4DC1CB1427E4BE0E000F867A /* ViewController.swift */,
 				4DC1CB1627E4BE0E000F867A /* Main.storyboard */,
+				4DDD594127EDEFCC00BF18DF /* ContactTableViewController.swift */,
 				4DC1CB1927E4BE0F000F867A /* Assets.xcassets */,
 				4DC1CB1B27E4BE0F000F867A /* LaunchScreen.storyboard */,
 				4DC1CB1E27E4BE0F000F867A /* Info.plist */,
@@ -263,6 +266,7 @@
 			files = (
 				4DC1CB1527E4BE0E000F867A /* ViewController.swift in Sources */,
 				4DC1CB1127E4BE0E000F867A /* AppDelegate.swift in Sources */,
+				4DDD594227EDEFCC00BF18DF /* ContactTableViewController.swift in Sources */,
 				4DC1CB1327E4BE0E000F867A /* SceneDelegate.swift in Sources */,
 				4DC1CB4127E4BE2E000F867A /* PhoneEntry.swift in Sources */,
 			);
